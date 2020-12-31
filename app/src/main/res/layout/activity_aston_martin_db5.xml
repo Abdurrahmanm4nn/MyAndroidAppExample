@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/aston_martin_db5" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="match_parent" android:layout_height="347dp">
+            <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/aston_martin_db5" android:scaleType="fitXY" android:adjustViewBounds="true"/>
+            <TextView android:textAppearance="@style/TextAppearance.AppCompat.Small" android:textColor="@android:color/white" android:gravity="center_vertical" android:layout_gravity="bottom" android:background="#4d000000" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginBottom="16dp" android:text="@string/aston_martin_db5" android:drawableLeft="@drawable/ic_collections_white_18dp" android:drawablePadding="4dp"/>
+        </FrameLayout>
+        <TextView android:textSize="12sp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:layout_marginBottom="8dp" android:text="Spesifikasi"/>
+        <TableLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:layout_marginBottom="16dp">
+            <TableRow android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="8dp">
+                <TextView android:textSize="14sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16dp" android:text="Color\nBody\nEngine"/>
+                <TextView android:textSize="14sp" android:textColor="@android:color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/content_specs_display3" android:layout_weight="1"/>
+            </TableRow>
+            <TableRow android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="8dp">
+                <TextView android:textSize="14sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16dp" android:text="Transmission"/>
+                <TextView android:textSize="14sp" android:textColor="@android:color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/content_transmission3" android:layout_weight="1"/>
+            </TableRow>
+            <TableRow android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="8dp">
+                <TextView android:textSize="14sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16dp" android:text="Detail\nSpec"/>
+                <TextView android:textSize="14sp" android:textColor="@android:color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/content_specs_engine3" android:layout_weight="1"/>
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</ScrollView>

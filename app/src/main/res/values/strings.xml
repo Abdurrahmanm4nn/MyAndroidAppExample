@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">CarGallery</string>
+    <string name="cars_name">Nama Mobil</string>
+    <string name="detail">Detail</string>
+    <string name="profile">Profile Pembuat</string>
+    <string name="nama">Aghniya Abdurrahman Mannan</string>
+    <string name="email">abdurrahman1270@gmail.com</string>
+    <string name="aston_martin_db5">Aston Martin DB5</string>
+    <string name="aston_martin_one77">Aston Martin One-77</string>
+    <string name="content_specs_display1">Rosso Corsa
+        Kevlar, carbon fibre, and aluminium body
+        2.9L V8 twin-turbo engine</string>
+    <string name="content_specs_display10">"Gray
+ Carbon fibre monocoque
+ 7.3L V12 engine"</string>
+    <string name="content_specs_display2">"Wine Red
+ Kevlar, and aluminium body
+ 2.8L flat-6 twin-turbo engine"</string>
+    <string name="content_specs_display3">"Silver
+ Magnesium-alloy body
+ 4L Inline-6 engine"</string>
+    <string name="content_specs_display4">"Black
+ Carbon fibre monocoque
+ 6.3L V12 hybrid engine"</string>
+    <string name="content_specs_display5">"MSO White
+ Carbon fibre monocoque
+ 4L V8 twin-turbo engine"</string>
+    <string name="content_specs_display6">"Silver Metallic
+ Carbon fibre monocoque
+ 5.7L V10 engine"</string>
+    <string name="content_specs_display7">"Livery red
+ Carbon fibre monocoque
+ 3.8L flat-6 twin-turbo engine"</string>
+    <string name="content_specs_display8">"Gray
+ Carbon fibre monocoque
+ 3.9L V8 twin-turbo engine"</string>
+    <string name="content_specs_display9">"Gray
+ Carbon fibre monocoque
+ 6.5L V12 engine"</string>
+    <string name="content_specs_engine1">"2,936cc twin-turbo 90-degree V8
+ Peak Power: 478ps(471hp; 352kW)@7000rpm
+ Peak Torque: 577Nm(426lb.ft)@4000rpm
+ Acceleration (0-60 mph): 4.2 seconds
+ Acceleration (0-100 mph): 8.3 seconds
+ Top Speed : 197mph(317km/h)"</string>
+    <string name="content_specs_engine10">"7312cc twin-turbo V12
+ Peak Power: 760ps@7500rpm
+ Peak Torque: 750Nm@5000rpm
+ Acceleration (0-60 mph): 3.5 seconds
+ Top Speed : 220mph(350km/h)"</string>
+    <string name="content_specs_engine2">"2,849cc twin-turbo flat-6
+ Peak Power: 450ps@6500rpm
+ Peak Torque: 500Nm@5000rpm
+ Acceleration (0-60 mph): 3.6 seconds
+ Acceleration (0-100 mph): 8.2 seconds
+ Top Speed : 198mph(319km/h)"</string>
+    <string name="content_specs_engine3">"3995cc Inline-6
+ Peak Power: 325hp@5500rpm
+ Peak Torque: 390Nm@4500rpm
+ Acceleration (0-60 mph): 8 seconds
+ Top Speed : 145mph(233km/h)"</string>
+    <string name="content_specs_engine4">"6262cc V12 with KERS
+ Peak Power: 963ps@9000rpm
+ Peak Torque: 900Nm@6750rpm
+ Acceleration (0-60 mph): 2.4 seconds
+ Acceleration (0-124 mph): 6.3 seconds
+ Top Speed : 220mph(350km/h)"</string>
+    <string name="content_specs_engine5">"3994cc V8 twin-turbo
+ Peak Power: 800ps@7250rpm
+ Peak Torque: 800Nm@5500rpm
+ Acceleration (0-60 mph): 2.8 seconds
+ Acceleration (0-124 mph): 6.8 seconds
+ Top Speed : 211mph(340km/h)"</string>
+    <string name="content_specs_engine6">"5733cc V10
+ Peak Power: 612ps@8000rpm
+ Peak Torque: 590Nm@5750rpm
+ Acceleration (0-60 mph): 3.6 seconds
+ Acceleration (0-124 mph): 6.5 seconds
+ Top Speed : 208mph(334km/h)"</string>
+    <string name="content_specs_engine7">"3800cc flat-6 twin-turbo
+ Peak Power: 700ps@7000rpm
+ Peak Torque: 750Nm
+ Acceleration (0-60 mph): 2.7 seconds
+ Top Speed : 211mph(340km/h)"</string>
+    <string name="content_specs_engine8">"3902cc twin-turbo V8
+ Peak Power: 710ps@8000rpm
+ Peak Torque: 770Nm@3000rpm
+ Acceleration (0-60 mph): 2.85 seconds
+ Acceleration (0-124 mph): 7.6 seconds
+ Top Speed : 211mph(340km/h)"</string>
+    <string name="content_specs_engine9">"6496cc V12
+ Peak Power: 800ps@8500rpm
+ Peak Torque: 718Nm@7000rpm
+ Acceleration (0-60 mph): 2.9 seconds
+ Top Speed : 211mph(340km/h)"</string>
+    <string name="content_text1">1987 Ferrari F40.</string>
+    <string name="content_text10">2010 Aston Martin One-77.</string>
+    <string name="content_text2">1987 Porsche 959.</string>
+    <string name="content_text3">1963 Aston Martin DB5.</string>
+    <string name="content_text4">2013 Ferrari LaFerrari.</string>
+    <string name="content_text5">2018 McLaren Senna</string>
+    <string name="content_text6">2005 Porsche Carrera GT.</string>
+    <string name="content_text7">2019 Porsche 935 Clubsport.</string>
+    <string name="content_text8">2019 Ferrari 488 Pista.</string>
+    <string name="content_text9">2018 Ferrari 812 Superfast.</string>
+    <string name="content_transmission1">5-speed manual gearbox</string>
+    <string name="content_transmission10">6-speed automated manual gearbox</string>
+    <string name="content_transmission2">6-speed manual gearbox</string>
+    <string name="content_transmission3">5-speed ZF box</string>
+    <string name="content_transmission4">7-speed dual-clutch gearbox</string>
+    <string name="content_transmission5">7-speed dual-clutch gearbox</string>
+    <string name="content_transmission6">6-speed manual gearbox</string>
+    <string name="content_transmission7">7-speed dual-clutch gearbox</string>
+    <string name="content_transmission8">7-speed dual-clutch gearbox</string>
+    <string name="content_transmission9">7-speed dual-clutch gearbox</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="ferrari_488_pista">Ferrari 488 Pista</string>
+    <string name="ferrari_812_superfast">Ferrari 812 Superfast</string>
+    <string name="ferrari_f40">Ferrari F40</string>
+    <string name="ferrari_laferrari">Ferrari LaFerrari</string>
+    <string name="mclaren_senna">McLaren Senna</string>
+    <string name="porsche_935">Porsche 935 Clubsport</string>
+    <string name="porsche_959">Porsche 959</string>
+    <string name="porsche_carrera_gt">Porsche Carrera GT</string>
+</resources>
